@@ -21,3 +21,11 @@ http://localhost:8765/currency-exchange/from/USD/to/INR
 http://localhost:8765/currency-conversion/from/USD/to/INR/quantity/10
 http://localhost:8765/currency-conversion-feign/from/USD/to/INR/quantity/10
 http://localhost:8765/currency-conversion-new/from/USD/to/INR/quantity/10
+
+Images
+Successfully built image 'docker.io/y6mc37021/smv1-currency-exchange-service:0.0.1-SNAPSHOT'
+
+Docker Commands In Power Shell:
+docker --help
+docker --version/v
+docker ps  --> 
