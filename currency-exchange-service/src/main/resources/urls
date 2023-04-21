@@ -25,6 +25,17 @@ http://localhost:8765/currency-conversion-new/from/USD/to/INR/quantity/10
 Images
 Successfully built image 'docker.io/y6mc37021/smv1-currency-exchange-service:0.0.1-SNAPSHOT'
 
+
+
+Application Port
+Limits Microservice 8080, 8081, ...
+Spring Cloud Config Server 8888
+Currency Exchange Microservice 8000, 8001, 8002, ..
+Currency Conversion Microservice 8100, 8101, 8102, ...
+Netflix Eureka Naming Server 8761
+API Gateway 8765
+Zipkin Distributed Tracing Server 9411
+
 Docker Commands In Power Shell:
 docker --help
 docker --version/v
